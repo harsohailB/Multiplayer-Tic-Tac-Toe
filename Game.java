@@ -1,8 +1,6 @@
 
 import java.io.*;
 
-//STUDENTS SHOULD ADD CLASS COMMENTS, METHOD COMMENTS, FIELD COMMENTS 
-
 /**
  * This class holds main function and acts as a node for all other classes
  * as it monitors the referee class, used the constants interface, and holds

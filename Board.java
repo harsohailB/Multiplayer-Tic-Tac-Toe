@@ -1,7 +1,4 @@
 
-
-//STUDENTS SHOULD ADD CLASS COMMENTS, METHOD COMMENTS, FIELD COMMENTS 
-
 /**
  * This class keeps adds plays, deletes plays, clears and displays the
  * board as well as monitors it for wins
